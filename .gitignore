@@ -15,6 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+!hy3dgen/texgen/custom_rasterizer/lib/
 lib64/
 parts/
 sdist/
