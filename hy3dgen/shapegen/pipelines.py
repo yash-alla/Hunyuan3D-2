@@ -175,7 +175,7 @@ class Hunyuan3DDiTPipeline:
         model = instantiate_from_config(config['model'])
         model.load_state_dict(ckpt['model'])
         vae = instantiate_from_config(config['vae'])
-        vae.load_state_dict(ckpt['vae'])
+        vae.load_state_dict(ckpt['vae'], strict=False)
         conditioner = instantiate_from_config(config['conditioner'])
         if 'conditioner' in ckpt:
             conditioner.load_state_dict(ckpt['conditioner'])
