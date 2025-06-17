@@ -128,7 +128,7 @@ Hunyuan3D-2-1 Series
 | Model                | Description                   | Date       | Size | Huggingface                                                                             |
 |----------------------|-------------------------------|------------|------|-----------------------------------------------------------------------------------------|
 | Hunyuan3D-DiT-v2-1   | Mini Image to Shape Model     | 2025-06-13 | 3.0B | [Download](https://huggingface.co/tencent/Hunyuan3D-2.1/tree/main/hunyuan3d-dit-v2-1)   |
-| Hunyuan3D-Paint-v2-1 | Texture Generation Model    | 2025-06-13 | 1.3B | [Download](https://huggingface.co/tencent/Hunyuan3D-2.1/tree/main/hunyuan3d-paint-v2-1) |
+| Hunyuan3D-Paint-v2-1 | Texture Generation Model    | 2025-06-13 | 1.3B | [Download](https://huggingface.co/tencent/Hunyuan3D-2.1/tree/main/hunyuan3d-paintpbr-v2-1) |
 
 Hunyuan3D-2mini Series
 
